@@ -8,7 +8,7 @@ angular.module('scheduleCity').controller('MainCtrl',function($scope,$firebase){
         name: 'Monday',
         slots: {
           0900: {
-            time: '9:00am',
+            time: '9:10am',
             booked: false
           },
           0110: {
@@ -21,7 +21,7 @@ angular.module('scheduleCity').controller('MainCtrl',function($scope,$firebase){
         name: 'Tuesday',
         slots: {
           0900: {
-            time: '9:00am',
+            time: '9:10am',
             booked: false
           },
           0110: {
